@@ -2,8 +2,13 @@
 I am a student of Computer Science and Engineering (CSE) with a specialization in Artificial Intelligence and Machine Learning (AIML). I am passionate about leveraging technology to solve complex problems and create impactful solutions. Over the course of my learning journey, I have mastered programming languages like C, C++, Java, and Python and developed expertise in the MERN stack for full-stack web development. <br>
 
 ## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/chaitanya-zunzurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chaitanya-zunzurkar" height="30" width="40" /></a>
+<p style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; margin: 0;">
+  <a href="https://linkedin.com/in/chaitanya-zunzurkar" target="blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chaitanya-zunzurkar" height="35" width="35" style="border-radius: 50%; transition: transform 0.3s ease;">
+  </a>
+  <a href="mailto:chaitanyazunzurkar09@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-chaitanyazunzurkar09@gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" height="35" style="border-radius: 50%; transition: transform 0.3s ease;">
+  </a>
 </p>
 
 # 💻 Tech Stack:
