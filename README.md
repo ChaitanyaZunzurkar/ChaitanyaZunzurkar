@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Chaitanya Zunzurkar</h1>
+<h3 align="center">A passionate MERN stack developer from India</h3>
+
 # 💫 About Me:
 I am a student of Computer Science and Engineering (CSE) with a specialization in Artificial Intelligence and Machine Learning (AIML). I am passionate about leveraging technology to solve complex problems and create impactful solutions. Over the course of my learning journey, I have mastered programming languages like C, C++, Java, and Python and developed expertise in the MERN stack for full-stack web development. <br>
 
