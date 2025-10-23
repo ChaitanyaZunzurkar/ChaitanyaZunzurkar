@@ -11,7 +11,7 @@ I am a student of Computer Science and Engineering (CSE) with a specialization i
   </a> 
   <a href="mailto:chaitanyazunzurkar@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>  
+  </a>
 </p>
 
 # 💻 Tech Stack:
