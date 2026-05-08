@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from India</h3>
 
 # 💫 About Me:
-Aspiring AI Engineer and Full-Stack Developer dedicated to building scalable, intelligent systems. I specialize in Generative AI, Transformer architectures, and sequence modeling, with a deep focus on high-performance programming. I aim to leverage my expertise in Data Structures & Algorithms and modern Deep Learning to solve complex engineering challenges and bridge the gap between advanced research and user-centric applications.<br>I'm currently mastering Generative AI and Transformer-based models (Encoder-Decoder), while refining my problem-solving efficiency through advanced DSA in C++. 
+AI Engineer and Full-Stack Developer dedicated to building scalable, intelligent systems. I specialize in Generative AI, Transformer architectures, and sequence modeling, with a deep focus on high-performance programming. I aim to leverage my expertise in Data Structures & Algorithms and modern Deep Learning to solve complex engineering challenges and bridge the gap between advanced research and user-centric applications.<br>I'm currently mastering Generative AI and Transformer-based models (Encoder-Decoder), while refining my problem-solving efficiency through advanced DSA in C++. 
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
